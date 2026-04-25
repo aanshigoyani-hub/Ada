@@ -67,7 +67,7 @@ public class BubbleSort {
     }
 }
 
-/; output 
+/* output 
 5
 64 34 25 12 22
 
@@ -80,4 +80,4 @@ Pass 4: 12 22 25 34 64
 
 Execution Time: 145600 nanoseconds
 
-Sorted array: 12 22 25 34 64 ;/
+Sorted array: 12 22 25 34 64 */
