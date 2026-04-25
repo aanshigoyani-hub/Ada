@@ -72,7 +72,7 @@ public class MCM {
         sc.close();
     }
 }
-/; output 
+/* output 
 Enter number of matrix 4
 enter rows and columns of matrix 
 2
@@ -89,4 +89,4 @@ s matrix
 2 2
 3 
 optimal parenthesization ia (((A1A2)A3)A4)
-Minimum number of multiplication ia 296 ;/
+Minimum number of multiplication ia 296 */
