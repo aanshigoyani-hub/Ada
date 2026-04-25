@@ -93,7 +93,7 @@ public class MergeSort{
         sc.close();
     }
 }
-/; output 
+/* output 
   5
   64 34 25 12 22
   Original array: 64 34 25 12 22
@@ -105,4 +105,4 @@ Merge [0,4]: 12 22 25 34 64
 
 Execution Time: 120500 nanoseconds
 
-Sorted array: 12 22 25 34 64;/
+Sorted array: 12 22 25 34 64*/
