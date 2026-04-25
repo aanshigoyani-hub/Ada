@@ -59,7 +59,7 @@ public class prim{
         sc.close();
     }
 }
-/; output 
+/*output 
   Enter number of vertices :
 4
 
@@ -78,4 +78,4 @@ Enter adjacency matrix:
 1 2 ->3
 0 3 ->6
 
-total = 11 ;/
+total = 11 */
