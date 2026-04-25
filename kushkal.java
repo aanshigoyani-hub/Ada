@@ -52,7 +52,7 @@ public class kushkal {
         sc.close();
     }
 }
-/; output 
+/* output 
 Enter number of vertex: 4
 99 2 1 5
 2 99 99 3
@@ -61,4 +61,4 @@ Enter number of vertex: 4
 0->1
 0->1
 1->3
-Total =6;/
+Total =6*/
