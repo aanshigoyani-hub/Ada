@@ -34,7 +34,7 @@ public class knapsack {
         sc.close(); 
     }
 }
-/; output 
+/*output 
 Enter number of item you want to put to sell :
 3
 Enter maximum capacity of your bag :
@@ -53,4 +53,4 @@ DP Table:
 6 10 16 16 16
 6 10 16 18 22
 
-Maximum Profit = 22 ;/
+Maximum Profit = 22 */
