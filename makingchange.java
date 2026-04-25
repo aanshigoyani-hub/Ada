@@ -49,7 +49,7 @@ public class makingchange {
         sc.close();
    }
 }
-/; output 
+/*output 
 number of coin 3
 coin
 1
@@ -61,4 +61,4 @@ enter amount 8
 1 2 1 1 2 2 2 2
 minimum number of coin: 2
 coin selected:4
-coin selected:4 ;/
+coin selected:4 */
