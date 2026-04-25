@@ -78,7 +78,7 @@ public class SearchBoth {
         sc.close();
     }
 }
-/; output 
+/* output 
   Enter number of elements: 5
 Enter elements:
 50 10 30 20 40
@@ -89,4 +89,4 @@ Choose method:
 2. Binary Search
 2
 Sorted array: 10 20 30 40 50
-Element found at index: 2 ;/
+Element found at index: 2 */
