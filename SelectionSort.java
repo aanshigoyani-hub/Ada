@@ -66,7 +66,7 @@ public class SelectionSort {
 }
 
 
-/; Enter number of elements: 5
+/* Enter number of elements: 5
 Enter elements:
 64 25 12 22 11
 
@@ -79,4 +79,4 @@ Pass 4: 11 12 22 25 64
 
 Execution Time: 153200 nanoseconds
 
-Sorted array: 11 12 22 25 64. ;/
+Sorted array: 11 12 22 25 64. */
